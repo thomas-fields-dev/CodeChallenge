@@ -413,7 +413,7 @@ namespace Grades
             int sum = 5;
             if (sum > 0)
             {
-                int six = 6;
+                //int six = 6;
             }
             Console.WriteLine(sum);
         }
